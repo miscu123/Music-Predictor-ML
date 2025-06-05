@@ -15,8 +15,6 @@ A lightweight machine learning demo that predicts music preferences based on age
 |-----------------|-------------|
 | Model Type      | Classifier  |
 | Baseline Accuracy | 25% (random guess) |
-| Achieved Accuracy | [Your Score]% |
-| Training Samples | [X] simulated data points |
 
 ## 🚀 Getting Started
 
